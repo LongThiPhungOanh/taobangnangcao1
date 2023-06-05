@@ -1,0 +1,8 @@
+table{
+    border: 1px solid white;
+    height: 70px;
+    width: 80px;
+}
+.id {
+    display: inline-table;
+}
